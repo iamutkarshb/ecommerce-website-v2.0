@@ -4,12 +4,8 @@ And an improve version of the old ecommerce website with included backend.
 
 ### Guidelines
   * Use the software XAMPP to run the code.
-  * use need to create your own sql database using the software. to make the project work 
-  * Each an every component and files for it should be in its folder
-    inside the component folder.
-  * Each page should be in their own directory in the pages directory.
-  * Make sure no one commits to the master branch
-  * Don't merge locally. Always create PRs.
+  * Use need to create your own sql database using the software. to make the project work 
+  * I will include the SQL file needed to run this project and how to link it to the database later in this file.
   
 ### Fonts
   * Nunito Sans
