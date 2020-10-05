@@ -1,4 +1,4 @@
-# ecommerce-website-v2.0
+# ecommerce-website v2.0
 A UI/UX design template for the Small Buisness, looking for a boost in the online marketing sector to increase their profit in this pandemic situation...
 And an improve version of the old ecommerce website with included backend.
 
